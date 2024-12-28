@@ -236,6 +236,10 @@ async def process_product_type(message: types.Message):
 
 ## Screenshots
 
+![website](website.png)
 
+![database](database.png)
+
+![bot](telebot.png)
 
 Feel free to contribute or report any issues!
